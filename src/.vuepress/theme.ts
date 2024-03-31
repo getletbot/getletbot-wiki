@@ -6,8 +6,8 @@ export default hopeTheme({
     hostname: "https://wiki.getletbot.com",
 
     author: {
-        name: "GetLetBot",
-        url: "https://wiki.getletbot.com",
+        name: "梓澪",
+        url: "https://zil.ing",
     },
 
     iconAssets: "fontawesome-with-brands",

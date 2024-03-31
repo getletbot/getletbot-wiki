@@ -1,0 +1,100 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HttpUrlsUsage" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredUrls">
+        <list>
+          <option value="http://localhost" />
+          <option value="http://127.0.0.1" />
+          <option value="http://0.0.0.0" />
+          <option value="http://www.w3.org/" />
+          <option value="http://json-schema.org/draft" />
+          <option value="http://java.sun.com/" />
+          <option value="http://xmlns.jcp.org/" />
+          <option value="http://javafx.com/javafx/" />
+          <option value="http://javafx.com/fxml" />
+          <option value="http://maven.apache.org/xsd/" />
+          <option value="http://maven.apache.org/POM/" />
+          <option value="http://www.springframework.org/schema/" />
+          <option value="http://www.springframework.org/tags" />
+          <option value="http://www.springframework.org/security/tags" />
+          <option value="http://www.thymeleaf.org" />
+          <option value="http://www.jboss.org/j2ee/schema/" />
+          <option value="http://www.jboss.com/xml/ns/" />
+          <option value="http://www.ibm.com/webservices/xsd" />
+          <option value="http://activemq.apache.org/schema/" />
+          <option value="http://schema.cloudfoundry.org/spring/" />
+          <option value="http://schemas.xmlsoap.org/" />
+          <option value="http://cxf.apache.org/schemas/" />
+          <option value="http://primefaces.org/ui" />
+          <option value="http://tiles.apache.org/" />
+          <option value="http://quote.zi0.cc" />
+          <option value="http://www.china6636.com" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="27">
+            <item index="0" class="java.lang.String" itemvalue="python_telegram_bot" />
+            <item index="1" class="java.lang.String" itemvalue="requests" />
+            <item index="2" class="java.lang.String" itemvalue="telegram" />
+            <item index="3" class="java.lang.String" itemvalue="pytz" />
+            <item index="4" class="java.lang.String" itemvalue="httpx" />
+            <item index="5" class="java.lang.String" itemvalue="azure.ai.vision" />
+            <item index="6" class="java.lang.String" itemvalue="azure" />
+            <item index="7" class="java.lang.String" itemvalue="tqdm" />
+            <item index="8" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="9" class="java.lang.String" itemvalue="trdg" />
+            <item index="10" class="java.lang.String" itemvalue="wandb" />
+            <item index="11" class="java.lang.String" itemvalue="torch" />
+            <item index="12" class="java.lang.String" itemvalue="onnx-simplifier" />
+            <item index="13" class="java.lang.String" itemvalue="numpy" />
+            <item index="14" class="java.lang.String" itemvalue="torchvision" />
+            <item index="15" class="java.lang.String" itemvalue="onnx" />
+            <item index="16" class="java.lang.String" itemvalue="torchsummary" />
+            <item index="17" class="java.lang.String" itemvalue="Pillow" />
+            <item index="18" class="java.lang.String" itemvalue="sklearn" />
+            <item index="19" class="java.lang.String" itemvalue="scikit-image" />
+            <item index="20" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="21" class="java.lang.String" itemvalue="scipy" />
+            <item index="22" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="23" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="24" class="java.lang.String" itemvalue="Pyrogram" />
+            <item index="25" class="java.lang.String" itemvalue="TgCrypto" />
+            <item index="26" class="java.lang.String" itemvalue="APScheduler" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E262" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="telegram" />
+          <option value="telegram.*" />
+          <option value="dict.*" />
+          <option value="sqlalchemy.orm.DeclarativeBase" />
+          <option value="sqlalchemy.orm.mapped_column" />
+          <option value="sqlalchemy.orm.MappedColumn" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

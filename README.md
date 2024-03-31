@@ -1,1 +1,1 @@
-# GetLetbot WIKI
+# GetLetBot WIKI

@@ -5,7 +5,7 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "GetLetBot WIKI",
+  title: "妙妙小工具 WIKI",
   description: "妙妙小工具使用文档",
   theme,
   head: [

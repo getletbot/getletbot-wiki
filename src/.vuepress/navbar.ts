@@ -8,11 +8,11 @@ export default navbar([
   }, 
   {
     text: "使用教程",
-    icon: "home",
-    link: "/quick/",
+    icon: "lightbulb",
+    link: "/basic",
   }, 
   {
-    text: "加入我们",
+    text: "加入妙妙屋",
     icon: "comments",
     children: [
       { text: "梓澪の妙妙屋", link: "https://t.me/mio_house" },

@@ -1,1 +1,25 @@
-// place your custom styles here
+@import "palette";
+
+h1 {
+  color: $theme-color;
+}
+
+h2 {
+  color: #1E88E5;
+}
+
+h3 {
+  color: #56ca5a;
+}
+
+h4 {
+  color: #FFB300;
+}
+
+h5 {
+  color: #8E24AA;
+}
+
+h6 {
+  color: #FB8C00;
+}

@@ -66,3 +66,7 @@ icon: wheelchair-move
     - 视频
     - 音频
     - 语音
+
+## 鸣谢
+
+- [PiliPili WIKI](https://wiki.touhou.ing)

@@ -69,4 +69,4 @@ icon: wheelchair-move
 
 ## 鸣谢
 
-- [PiliPili WIKI](https://wiki.touhou.ing)
+- ZBound[https://github.com/ZBound/PiliPili-WIKI-hope]

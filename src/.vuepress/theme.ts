@@ -1,7 +1,7 @@
 import {hopeTheme} from "vuepress-theme-hope";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
-import {cut} from "nodejs-jieba";
+// import {cut} from "nodejs-jieba";
 
 export default hopeTheme({
     hostname: "https://wiki.getletbot.com",
@@ -34,13 +34,18 @@ export default hopeTheme({
         catalog: true,
         seo: true,
         photoSwipe: true,
-        searchPro: {
-            indexContent: true,
-            indexOptions: {
-                // 使用 nodejs-jieba 进行分词
-                tokenize: (text, fieldName) =>
-                    fieldName === "id" ? [text] : cut(text, true),
-            },
+        // searchPro: {
+        //     indexContent: true,
+        //     indexOptions: {
+        //         // 使用 nodejs-jieba 进行分词
+        //         tokenize: (text, fieldName) =>
+        //             fieldName === "id" ? [text] : cut(text, true),
+        //     },
+        // },
+        docsearch: {
+            appId: "NM5OPD0YJ4",
+            apiKey: "8bab29a667215cece5fab373eea47be9",
+            indexName: "getletbot",
         },
         components: {
             components: ["Badge", "VPCard"],

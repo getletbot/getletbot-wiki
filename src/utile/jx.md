@@ -11,13 +11,15 @@ icon: wand-sparkles
 :::
 
 ::: tip 功能说明
-支持列表: `抖音视频|图文`、`哔哩哔哩`、`YouTube`、`TikTok`
+支持列表: `抖音视频|图文`、`哔哩哔哩`、`YouTube`、`TikTok视频|图文`、`小红书视频|图文`
 
 <Badge text="指令示例:" type="tip"/>
 - `/jx https://v.douyin.com/6BEYVNs`
 - `/jx https://v.douyin.com/ie6u3554`
 - `/jx https://www.youtube.com/watch?v=g4wBVvB-2qU`
 - `/jx https://www.bilibili.com/video/BV1o64y167qq`
+- `/jx http://xhslink.com/DoSOuG`
+- `/jx https://www.tiktok.com/@huudatedit.1/video/7352435534645529889`
 :::
 
 ## 功能预览
@@ -28,3 +30,5 @@ icon: wand-sparkles
 
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [TenAPI](https://tenapi.cn)
+- [ReaJason/xhs](https://github.com/ReaJason/xhs)
+- [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)

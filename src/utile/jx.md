@@ -11,7 +11,7 @@ icon: wand-sparkles
 :::
 
 ::: tip 功能说明
-支持列表: `抖音视频|图文`、`哔哩哔哩`、`YouTube`、`TikTok视频|图文`、`小红书视频|图文`
+支持列表: `抖音视频|图文`、`哔哩哔哩`、`YouTube`、`YouTube Music`、`TikTok视频|图文`、`小红书视频|图文`、`Twitter视频|图文`
 
 <Badge text="指令示例:" type="tip"/>
 - `/jx https://v.douyin.com/6BEYVNs`
@@ -20,6 +20,7 @@ icon: wand-sparkles
 - `/jx https://www.bilibili.com/video/BV1o64y167qq`
 - `/jx http://xhslink.com/DoSOuG`
 - `/jx https://www.tiktok.com/@huudatedit.1/video/7352435534645529889`
+- `/jx https://x.com/toaru_project/status/1777713084057952414`
 :::
 
 ## 功能预览

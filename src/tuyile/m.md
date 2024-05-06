@@ -27,7 +27,7 @@ icon: dragon
 - `/m 摸`  
 - `/m 喜报`    
 
-支持的表情: [点击查看](https://github.com/MeetWq/meme-generator/blob/main/docs/memes.md)
+支持的表情: [点击查看](https://github.com/MeetWq/meme-generator/wiki/%E8%A1%A8%E6%83%85%E5%88%97%E8%A1%A8)
 :::
 
 ## 功能预览

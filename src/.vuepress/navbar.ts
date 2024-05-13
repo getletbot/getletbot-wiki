@@ -12,6 +12,11 @@ export default navbar([
         link: "/basic",
     },
     {
+        text: "BotAPI状态",
+        icon: "wifi",
+        link: "https://status.getletbot.com/status/api",
+    },
+    {
         text: "加入妙妙屋",
         icon: "comments",
         children: [

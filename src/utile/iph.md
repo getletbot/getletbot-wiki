@@ -1,5 +1,5 @@
 ---
-title: 将图片上传到Telegraph
+title: 图片批量上传Telegraph
 icon: image
 ---
 

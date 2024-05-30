@@ -7,7 +7,7 @@ icon: gamepad
 **指令**: `/game`  
 **触发:** `指令`   
 **支持:** `文本`
-<Badge text="指令映射✅"/> <Badge text="REPL模式✅"/>
+<Badge text="指令映射✅"/> <Badge text="REPL模式❎"/>
 :::
 
 ## 功能预览

@@ -7,7 +7,7 @@ icon: venus-mars
 **指令**: `/cp`  
 **触发:** `指令` / `指令回复`   
 **支持:** `文本`
-<Badge text="指令映射✅"/> <Badge text="REPL模式✅"/>
+<Badge text="指令映射✅"/> <Badge text="REPL模式❎"/>
 :::
 
 ## 功能预览

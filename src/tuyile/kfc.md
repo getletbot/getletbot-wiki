@@ -7,7 +7,7 @@ icon: ice-cream
 **指令**: `/kfc` / `/疯狂星期x`
 **触发:** `指令` / `指令回复`   
 **支持:** `文本`
-<Badge text="指令映射✅"/> <Badge text="REPL模式✅"/>
+<Badge text="指令映射✅"/> <Badge text="REPL模式❎"/>
 :::
 
 ::: tip 功能说明

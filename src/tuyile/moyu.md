@@ -7,7 +7,7 @@ icon: calendar
 **指令**: `/moyu` / `/摸鱼` / `/摸鱼日历`  
 **触发:** `指令` / `自动`   
 **支持:** `文本`
-<Badge text="指令映射✅"/> <Badge text="REPL模式✅"/>
+<Badge text="指令映射✅"/> <Badge text="REPL模式❎"/>
 :::
 
 ::: tip 功能说明

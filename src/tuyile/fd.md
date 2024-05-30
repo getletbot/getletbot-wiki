@@ -7,7 +7,7 @@ icon: face-grin-tongue-wink
 **指令**: `/fd`  
 **触发:** `指令` / `指令回复`   
 **支持:** `文本`
-<Badge text="指令映射✅"/> <Badge text="REPL模式✅"/>
+<Badge text="指令映射✅"/> <Badge text="REPL模式❎"/>
 :::
 
 ## 功能预览

@@ -7,7 +7,7 @@ icon: repeat
 **指令**: `/repl`  
 **触发:** `指令`   
 **支持:** `文本`
-<Badge text="指令映射❎"/> <Badge text="REPL模式❎"/>
+<Badge text="指令映射✅"/> <Badge text="REPL模式❎"/>
 :::
 
 ::: tip 功能说明

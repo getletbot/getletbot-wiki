@@ -7,7 +7,7 @@ icon: ban
 **指令**: `无`  
 **触发:** `自动`   
 **支持:** `图片`
-<Badge text="指令映射✅"/> <Badge text="REPL模式✅"/>
+<Badge text="指令映射❎"/> <Badge text="REPL模式❎"/>
 :::
 
 ::: tip 功能说明

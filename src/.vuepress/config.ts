@@ -1,6 +1,6 @@
-import {defineUserConfig} from "vuepress";
+import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
-import {registerComponentsPlugin} from "@vuepress/plugin-register-components";
+import { registerComponentsPlugin } from "@vuepress/plugin-register-components";
 import * as path from "node:path";
 
 export default defineUserConfig({
@@ -18,7 +18,7 @@ export default defineUserConfig({
                 rel: 'stylesheet',
                 href: 'https://registry.npmmirror.com/lxgw-wenkai-screen-web/latest/files/lxgwwenkaiscreen/result.css',
             },
-        ],
+        ]
         // 可以继续添加其他 head 元素
     ],
 
